@@ -16,5 +16,18 @@ namespace MOD_03_GUI
         {
             InitializeComponent();
         }
+
+        private void buttonSubmit(object sender, EventArgs e)
+        {
+            string userInput = textBox1.Text;
+            
+            // Tampilkan output di textBoxOutput
+            textBoxOutput.Text = $"Selamat datang, {userInput} !";
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

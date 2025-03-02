@@ -1,0 +1,10 @@
+C:\Users\tisog\OneDrive\Dokumen\TP_MOD_03_103022330068_Fadhli Muhammad Dzaki\MOD_03_GUI\MOD_03_GUI\bin\Debug\MOD_03_GUI.exe.config
+C:\Users\tisog\OneDrive\Dokumen\TP_MOD_03_103022330068_Fadhli Muhammad Dzaki\MOD_03_GUI\MOD_03_GUI\bin\Debug\MOD_03_GUI.exe
+C:\Users\tisog\OneDrive\Dokumen\TP_MOD_03_103022330068_Fadhli Muhammad Dzaki\MOD_03_GUI\MOD_03_GUI\bin\Debug\MOD_03_GUI.pdb
+C:\Users\tisog\OneDrive\Dokumen\TP_MOD_03_103022330068_Fadhli Muhammad Dzaki\MOD_03_GUI\MOD_03_GUI\obj\Debug\MOD_03_GUI.csproj.AssemblyReference.cache
+C:\Users\tisog\OneDrive\Dokumen\TP_MOD_03_103022330068_Fadhli Muhammad Dzaki\MOD_03_GUI\MOD_03_GUI\obj\Debug\MOD_03_GUI.Form1.resources
+C:\Users\tisog\OneDrive\Dokumen\TP_MOD_03_103022330068_Fadhli Muhammad Dzaki\MOD_03_GUI\MOD_03_GUI\obj\Debug\MOD_03_GUI.Properties.Resources.resources
+C:\Users\tisog\OneDrive\Dokumen\TP_MOD_03_103022330068_Fadhli Muhammad Dzaki\MOD_03_GUI\MOD_03_GUI\obj\Debug\MOD_03_GUI.csproj.GenerateResource.cache
+C:\Users\tisog\OneDrive\Dokumen\TP_MOD_03_103022330068_Fadhli Muhammad Dzaki\MOD_03_GUI\MOD_03_GUI\obj\Debug\MOD_03_GUI.csproj.CoreCompileInputs.cache
+C:\Users\tisog\OneDrive\Dokumen\TP_MOD_03_103022330068_Fadhli Muhammad Dzaki\MOD_03_GUI\MOD_03_GUI\obj\Debug\MOD_03_GUI.exe
+C:\Users\tisog\OneDrive\Dokumen\TP_MOD_03_103022330068_Fadhli Muhammad Dzaki\MOD_03_GUI\MOD_03_GUI\obj\Debug\MOD_03_GUI.pdb
